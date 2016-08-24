@@ -1,4 +1,4 @@
-# NMSSaveManager
+# NMS Save Manager
 
 This utility is a simple loader which lets you manage multiple saves. Currently the in game controls only allow for 1 running save structure. This utility will allow you to create multiple. It performs all of the moving and copying of multiple save directories for you. This is a work in progress, and any feedback, suggestions, or feature requests are welcome.
 
