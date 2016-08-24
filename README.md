@@ -12,6 +12,8 @@ Here you will find a directory that starts with "st_". Copy this directory to a 
 TODO:
 1. This utility launches NMS for you, and I assume the Steam ID is universal for this. If not, I will need to devise a way to either allow the user to modify the launch URI or get the correct Steam ID during the first launch.
 2. This was created for use on my Windows 10 machine. I may need to provide a way to allow the user to modify the game data directory if it differs for earlier Windows releases.
+3. Provide the user the ability to backup a single save, or all saves, to a safe location.
+4. Provide the user the ability to restore said backup.
 
 USAGE:
 When you first run this utility it will detect if you have currently saved data, and allow you to create a new save with this data. I stronly urge you to do this, as creating and launching a new save without doing this will permanently delete any existing data. If you elect no here, when you create a new save, you will have one more opportunity to salvage the current data before it is permanently deleted.
