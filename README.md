@@ -21,6 +21,7 @@ USAGE:<br />
 When you first run this utility it will detect if you have currently saved data, and allow you to create a new save with this data. I stronly urge you to do this, as creating and launching a new save without doing this will permanently delete any existing data. If you elect no here, when you create a new save, you will have one more opportunity to salvage the current data before it is permanently deleted.
 
 Create New Game - this button will create a new save. Pretty straightforward.<br />
+Remove Selected Game - this button will remove the selected game, will prompt you to remove associated data<br />
 Load Selected Game - this button will move the selected save's game data into the root of the game data directory, and then launch the game.<br />
 File -> Import Game - this will allow you to import a save structure from another location.
 
