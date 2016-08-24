@@ -1,0 +1,9 @@
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\bin\Release\NMSSaveManager.exe.config
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\bin\Release\NMSSaveManager.exe
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\bin\Release\NMSSaveManager.pdb
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.Framework.CreateNewGameDialog.resources
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.Framework.MainForm.resources
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.Properties.Resources.resources
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.csproj.GenerateResource.Cache
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.exe
+c:\users\stephen\documents\visual studio 2015\Projects\NMSSaveManager\NMSSaveManager\obj\Release\NMSSaveManager.pdb

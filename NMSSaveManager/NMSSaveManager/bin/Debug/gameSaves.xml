@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfGameDataInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameDataInfo>
+    <Name>MySaveGame</Name>
+    <SavePath>MySaveGame_saves</SavePath>
+    <DirectoryName>st_76561198036384420</DirectoryName>
+  </GameDataInfo>
+</ArrayOfGameDataInfo>
